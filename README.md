@@ -7,4 +7,4 @@ Applied technologies:
 
 ## Hosting
 
-https://hajdu-balazs.github.io/business-page
+https://hajdu-balazs.github.io/Business-page/
