@@ -568,6 +568,10 @@ footer ul li {
 }
 
 @media only screen and (max-width: 500px) {
+  .container {
+    max-width: 95%;
+  }
+
   .focus-in-expand-fwd {
     -webkit-animation: none;
     animation: none;
@@ -589,19 +593,15 @@ footer ul li {
   }
 
   #header {
-    height: 110px;
+    min-width: 370px;
   }
 
   label {
-    position: absolute;
-    top: 50px;
-    left: 0;
-    right: 0;
-    margin: auto;
+    margin-right: 10px;
   }
 
   #toggle:checked + .menu {
-    top: 110px;
+    top: 70px;
   }
 
   #about .service {
