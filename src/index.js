@@ -2,7 +2,6 @@
 $('.menu-a').on('touchend click', function(){
 		$('#toggle').trigger('click');
 	});
-});
 
 
 // smooth scroll
