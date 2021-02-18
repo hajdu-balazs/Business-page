@@ -1,9 +1,7 @@
 // close hamburger menu after click a
-$('.menu-a').on('touchend click', function(){
-		$('#toggle').trigger('click');
-	});
+$(".js-a").on("touchend click", function () {
+  $("#toggle").trigger("click");
 });
-
 
 // smooth scroll
 $(document).ready(function () {
