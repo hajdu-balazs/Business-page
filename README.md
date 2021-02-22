@@ -1,9 +1,10 @@
-# My first business website
+# Business website
 
 Applied technologies:
 
 - HTML
 - CSS
+- JS
 
 ## Hosting
 
