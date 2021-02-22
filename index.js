@@ -1,14 +1,11 @@
- function hideMenu() {
-   let menuOpen = document.querySelector("#toggle").checked;
+function hideMenu() {
+  let menuOpen = document.querySelector("#toggle").checked;
 
-   if ((menuOpen = true)) {
-     document.querySelector("#toggle").checked = false;
-   }
- }
- window.addEventListener("scroll", hideMenu);
-
-
-
+  if ((menuOpen = true)) {
+    document.querySelector("#toggle").checked = false;
+  }
+}
+window.addEventListener("scroll", hideMenu);
 
 // smooth scroll
 $(document).ready(function () {
