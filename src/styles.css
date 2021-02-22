@@ -573,7 +573,7 @@ footer ul li {
   }
 
   #header {
-    position: relative;
+    position: fixed;
   }
 
   #toggle:checked + .menu {
