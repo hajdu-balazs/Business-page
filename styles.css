@@ -443,7 +443,7 @@ label {
 #contact .boxes {
   grid-template-columns: repeat(auto-fit, minmax(150px, 220px));
   grid-gap: 4rem;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 #contact .contact-h3 {
