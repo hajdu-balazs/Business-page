@@ -481,6 +481,7 @@ footer {
   height: 50px;
   line-height: 50px;
   font-size: 1.6rem;
+  font-weight: bolder;
   background-color: #eee;
   list-style: none;
 }
